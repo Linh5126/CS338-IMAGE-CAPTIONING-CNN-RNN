@@ -1,0 +1,18 @@
+streamlit>=1.32
+pandas>=2.0
+numpy>=1.24
+Pillow>=10.0
+matplotlib>=3.7
+torch>=2.1
+torchvision>=0.16
+ultralytics>=8.3
+nltk>=3.8
+rouge-score>=0.1.2
+pycocoevalcap>=1.2
+h5py>=3.9
+tqdm>=4.66
+# Optional SOTA comparison baselines
+transformers>=4.45.0
+accelerate>=0.33.0
+safetensors>=0.4.3
+sentencepiece>=0.2.0
